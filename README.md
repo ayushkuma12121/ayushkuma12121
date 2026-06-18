@@ -30,6 +30,23 @@ A results-driven Computer Science & Engineering graduate focused on data analyti
 </p>
 
 ---
+---
 
+### 📁 Featured Projects
+
+#### 🔹 1. Product Receiving & Automated Image Upload System
+*   **Description:** Designed and implemented an Android-based workflow integrated with hosted server components to streamline the receiving and validation process of physical inventory.
+*   **Tech Stack:** Python, Cursor AI, Android Studio, Hosted Infrastructure.
+*   **Key Outcome:** Optimized the backend communication lag and reduced manual entries by introducing direct automated image validation pipelines.
+
+#### 🔹 2. E-Commerce Analytics & Operations Dashboard
+*   **Description:** Built automated operational reporting mechanisms to analyze product management and consumer metrics for digital storefront operations.
+*   **Tech Stack:** Power BI, Excel, SQL, Shopify Platform Data.
+*   **Key Outcome:** Transformed disparate tracking sheets into intuitive visual models, enhancing stock-level clarity and storefront insights.
+
+#### 🔹 3. Scalable Cloud Application Hosting Infrastructure
+*   **Description:** Architected and migrated multiple hosted web utilities onto centralized production spaces to maintain high availability.
+*   **Tech Stack:** Google Cloud Platform (GCP), GitHub Actions, Bash Scripts.
+*   **Key Outcome:** Achieved seamless, scalable automation for tool deployment and robust system accessibility.
 ### 🤝 Let's Connect!
 * **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com) *(Tip: Ise baad me apne real LinkedIn profile link se replace kar lena)*
